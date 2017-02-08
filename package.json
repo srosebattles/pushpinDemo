@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/srosebattles/pushpinDemo/issues"
   },
-  "homepage": "https://github.com/srosebattles/pushpinDemo#readme"
+  "homepage": "https://github.com/srosebattles/pushpinDemo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
