@@ -1,0 +1,20 @@
+{
+  "name": "bower install materialize --save",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sarah Rose Battles <srosebattles@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/srosebattles/pushpinDemo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.0"
+  }
+}
